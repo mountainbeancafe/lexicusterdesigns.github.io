@@ -1,11 +1,12 @@
+<DOCTYPE html>
 /* css/main.css - The Brand Bible*/
 @font-face {
   font-family: Arial, sans-serif;
-  color: #333333; /* A dark gray for readable body text */
+  color: #333333;
   line-height: 1.6;
 }
 body {
-  background-color: #2c3e50; /*A specific shade of dark, professional blue*/
+  background-color: #2c3e50; 
   font-family: Arial, sans-serif;
 }
 h1 {
@@ -18,7 +19,7 @@ img {
 }
 .btn-primary {
   display: inline-block;
-  background-color: #007BFF; /* A clear, attention-grabbing blue */
+  background-color: #007BFF; 
   color: white;
   padding: 12px 20px;
   border-radius: 5px;
